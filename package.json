@@ -13,7 +13,8 @@
     "passport-jwt":"*",
     "cors":"*",
     "jsonwebtoken": "*",
-    "bcryptjs": "*"
+    "bcryptjs": "*",
+    "body-parser": "*"
   },
   "author": "imran ahmedani",
   "license": "ISC"
